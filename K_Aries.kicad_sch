@@ -1,0 +1,68 @@
+(kicad_sch (version 20230121) (generator eeschema)
+
+  (uuid 4d56c8f7-829b-457e-80cb-74e9f55628bb)
+
+  (paper "A4")
+
+  (lib_symbols
+  )
+
+
+  (sheet (at 27.305 135.89) (size 91.44 43.18) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid 70dfd9f7-6ecd-43f8-82c4-d1b5f4fc6a24)
+    (property "Sheetname" "Antenna switch" (at 27.305 135.1784 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "Ant_sw.kicad_sch" (at 27.305 179.6546 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (property "Champ2" "" (at 27.305 135.89 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (instances
+      (project "K_Aries"
+        (path "/4d56c8f7-829b-457e-80cb-74e9f55628bb" (page "4"))
+      )
+    )
+  )
+
+  (sheet (at 159.385 53.975) (size 100.33 60.96) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid 7e6cc0ee-07cc-4c77-b42a-9ca9fe554781)
+    (property "Sheetname" "MCU" (at 159.385 53.2634 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "Nano33_ctrl.kicad_sch" (at 159.385 115.5196 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "K_Aries"
+        (path "/4d56c8f7-829b-457e-80cb-74e9f55628bb" (page "3"))
+      )
+    )
+  )
+
+  (sheet (at 20.32 52.705) (size 99.06 60.325) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid d6e8d14c-e765-45cf-852c-f558c754ac0c)
+    (property "Sheetname" "Tranformer" (at 20.32 51.9934 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "ATU_transformer.kicad_sch" (at 20.32 113.6146 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "K_Aries"
+        (path "/4d56c8f7-829b-457e-80cb-74e9f55628bb" (page "2"))
+      )
+    )
+  )
+
+  (sheet_instances
+    (path "/" (page "1"))
+  )
+)

@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "RELAY_G2R-1-E AC12")(type "KiCad")(uri "${KIPRJMOD}/Lib/RELAY_G2R-1-E AC12/RELAY_G2R-1-E AC12.pretty")(options "")(descr ""))
+)
