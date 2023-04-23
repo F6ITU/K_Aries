@@ -1,0 +1,27 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP NE555DR
+D Single Precision Timer
+K
+F http://www.ti.com/lit/ds/symlink/ne555.pdf
+$ENDCMP
+#
+$CMP SI4463-C2A-GMR
+D SILICON LABS - SI4463-C2A-GMR - RF TRANSCEIVER, 1.05GHZ, -40 TO 85DEG C
+K
+F https://www.silabs.com/documents/public/data-sheets/Si4463-61-60-C.pdf
+$ENDCMP
+#
+$CMP XEL3520-131MEB
+D Fixed Inductors 130nH Shld 20% 18.9A 4.05mOhms AECQ2
+K
+F https://componentsearchengine.com//XEL3520-131MEB.pdf
+$ENDCMP
+#
+$CMP MF-MSMF110_24X-2
+D Bourns 1.1A Resettable Fuse, 24V
+K
+F http://uk.rs-online.com/web/p/products/8171668P
+$ENDCMP
+#
+#End Doc Library
