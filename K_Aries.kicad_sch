@@ -8,6 +8,29 @@
   )
 
 
+  (text "OPENHPSDR ARIES ATU, KiCAD version" (at 187.96 190.5 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid 453a1df0-b0e4-400f-aa6a-a974bd543b23)
+  )
+  (text "12/01/2019 (first release)22/04/2013 kicad port\n" (at 206.375 193.675 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid 62c48657-c114-4dc2-b583-0eafe1b57715)
+  )
+  (text "\nARIES automatic antenna tuner, release 5 (5/02/1921)\n\nOriginal design : KJELL KARLSEN, LA2NI"
+    (at 181.61 174.625 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid 9079b647-340a-41e7-9768-952dff3d85d7)
+  )
+  (text "1 with 3 hierachical pages (Z transformer, MCU, antenna switch)"
+    (at 187.96 183.515 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid c83fa7e2-d076-4cde-8dfe-0f757001dbe1)
+  )
+  (text "5.O.2K" (at 269.875 193.675 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid d27d70c1-6c03-43f4-8b6e-ec757f76c15d)
+  )
+
   (sheet (at 27.305 135.89) (size 91.44 43.18) (fields_autoplaced)
     (stroke (width 0.1524) (type solid))
     (fill (color 0 0 0 0.0000))

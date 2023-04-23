@@ -1,4 +1,5 @@
 (fp_lib_table
   (version 7)
   (lib (name "RELAY_G2R-1-E AC12")(type "KiCad")(uri "${KIPRJMOD}/Lib/RELAY_G2R-1-E AC12/RELAY_G2R-1-E AC12.pretty")(options "")(descr ""))
+  (lib (name "Nano_33")(type "KiCad")(uri "${KIPRJMOD}/Lib/Nano_33-master/Nano_33.pretty")(options "")(descr ""))
 )
