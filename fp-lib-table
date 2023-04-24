@@ -5,4 +5,6 @@
   (lib (name "MFMSMF11024X2")(type "KiCad")(uri "${KIPRJMOD}/Lib/MFMSMF11024X2-Master/MFMSMF11024X2.pretty")(options "")(descr ""))
   (lib (name "Capacitor_Mica")(type "KiCad")(uri "${KIPRJMOD}/Lib/Capacitor_Mica-master/Capacitor_Mica.pretty")(options "")(descr ""))
   (lib (name "eec")(type "KiCad")(uri "${KIPRJMOD}/Lib/24FC1026_Master/eec.pretty")(options "")(descr ""))
+  (lib (name "BNC_Amphenol_031-5329-51RFX")(type "KiCad")(uri "${KIPRJMOD}/Lib/BNC_Amphenol_031-5329-51RFX-Master/BNC_Amphenol_031-5329-51RFX.pretty")(options "")(descr ""))
+  (lib (name "Connector_Phoenix_1711725")(type "KiCad")(uri "${KIPRJMOD}/Lib/Connector_Phoenix_1711725-Master/Connector_Phoenix_1711725.pretty")(options "")(descr ""))
 )
