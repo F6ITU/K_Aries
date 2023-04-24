@@ -3,4 +3,6 @@
   (lib (name "RELAY_G2R-1-E AC12")(type "KiCad")(uri "${KIPRJMOD}/Lib/RELAY_G2R-1-E AC12/RELAY_G2R-1-E AC12.pretty")(options "")(descr ""))
   (lib (name "Arduino-nano-33")(type "KiCad")(uri "${KIPRJMOD}/Lib/Nano_33-master/Arduino-nano-33.pretty")(options "")(descr ""))
   (lib (name "MFMSMF11024X2")(type "KiCad")(uri "${KIPRJMOD}/Lib/MFMSMF11024X2-Master/MFMSMF11024X2.pretty")(options "")(descr ""))
+  (lib (name "Capacitor_Mica")(type "KiCad")(uri "${KIPRJMOD}/Lib/Capacitor_Mica-master/Capacitor_Mica.pretty")(options "")(descr ""))
+  (lib (name "eec")(type "KiCad")(uri "${KIPRJMOD}/Lib/24FC1026_Master/eec.pretty")(options "")(descr ""))
 )

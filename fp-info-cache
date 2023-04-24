@@ -1,4 +1,11 @@
-19749089479545649
+19755818808495799
+Arduino-nano-33
+NANO_33_Socket_Castell
+Through hole straight socket strip, 1x15, 2.54mm pitch
+Through hole socket strip THT 1x15 2.54mm single row
+0
+90
+30
 Button_Switch_SMD
 Nidec_Copal_SH-7010A
 4-bit rotary coded switch, J-hook, https://www.nidec-copal-electronics.com/e/catalog/switch/sh-7000.pdf
@@ -2008,6 +2015,13 @@ Gauge Massstab 100mm SilkScreenTop Type 2
 0
 0
 0
+Capacitor_Mica
+Capacitor_Mica
+
+CD15FD471JO3F 
+0
+4
+2
 Capacitor_SMD
 CP_Elec_3x5.3
 SMT capacitor, aluminium electrolytic, 3x5.3, Cornell Dubilier Electronics 
@@ -55005,6 +55019,13 @@ Yellow 5381 Series LED
 0
 2
 2
+MFMSMF11024X2
+MFMSMF11024X2
+MF-MSMF110
+Fuse
+0
+2
+2
 Module
 A20_OLINUXINO_LIME2
 A20 Olinuxino LIME2, 1.2GHz, 512-1024MB RAM, Micro-SD, NAND or eMMC, 1000Mbit Ethernet
@@ -57567,20 +57588,6 @@ Mounting 4.5mm 9774100982
 0
 8
 1
-Nano_33
-NANO_33_Footprint_SMD_Castell
-Through hole straight socket strip, 1x15, 2.54mm pitch
-Through hole socket strip THT 1x15 2.54mm single row
-0
-30
-30
-Nano_33
-NANO_33_Socket_Castell
-Through hole straight socket strip, 1x15, 2.54mm pitch
-Through hole socket strip THT 1x15 2.54mm single row
-0
-90
-30
 Oscillator
 Oscillator_DIP-8
 Oscillator, DIP8,http://cdn-reichelt.de/documents/datenblatt/B400/OSZI.pdf
@@ -82473,3 +82480,24 @@ igbt diode module
 0
 25
 25
+eec
+Microchip-24FC1025-I_SN-Level_A
+
+
+0
+8
+8
+eec
+Microchip-24FC1025-I_SN-Level_B
+
+
+0
+8
+8
+eec
+Microchip-24FC1025-I_SN-Level_C
+
+
+0
+8
+8
