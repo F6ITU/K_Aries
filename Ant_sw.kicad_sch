@@ -1860,8 +1860,8 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 7eed0c84-0786-4ef4-a4f6-805e55b5a27c)
   )
-  (text "\nAmphenol 031-5329-51RFX, ref mouser \n523-31-5329-51RFX"
-    (at 180.34 60.325 0)
+  (text "all BNC connector\nAmphenol 031-5329-51RFX, ref mouser \n523-31-5329-51RFX"
+    (at 114.935 70.485 0)
     (effects (font (size 2 2)) (justify left bottom))
     (uuid 7fb8e12a-11cd-4209-8e22-f7ed01149408)
   )
