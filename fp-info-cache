@@ -1,4 +1,4 @@
-19758823922907719
+19765554206654951
 Arduino-nano-33
 NANO_33_Socket_Castell
 Through hole straight socket strip, 1x15, 2.54mm pitch
@@ -6,6 +6,20 @@ Through hole socket strip THT 1x15 2.54mm single row
 0
 90
 30
+Aries_logo-master
+aries
+
+
+0
+0
+0
+Aries_logo-master
+aries20
+
+
+0
+0
+0
 BNC_Amphenol_031-5329-51RFX
 BNC_Amphenol_031532951RFX
 031-5329-51RFX-4
@@ -53689,6 +53703,13 @@ L_Toroid Vertical series Radial pin pitch 31.80mm  length 67.6mm width 36.1mm Vi
 0
 2
 2
+Inductor_THT
+Toroid_25x22
+
+
+0
+0
+0
 Inductor_THT_Wurth
 L_Wurth_WE-HCFT-2012_LeadDiameter1.2mm
 Shielded High Current Inductor, body 17x22mm, https://www.we-online.com/catalog/en/WE-HCFT#/articles/WE-HCFT-2012-ROUND
@@ -55037,6 +55058,13 @@ LED_THT
 LED_VCCLite_5381H7_6.35x6.35mm
 Yellow 5381 Series LED VCCLite https://vcclite.com/wp-content/uploads/wpallimport/files/files/5381Series.pdf http://static.vcclite.com/pdf/Mounting%20Hole%20Pattern%202.pdf
 Yellow 5381 Series LED
+0
+2
+2
+L_Toroid_Horizontal_D25.4mm_P22.90mm
+L_Toroid_Horizontal_25x22
+L_Toroid, Horizontal series, Radial, pin pitch=22.90mm, , diameter=25.4mm
+L_Toroid Horizontal series Radial pin pitch 22.90mm  diameter 25.4mm 
 0
 2
 2
