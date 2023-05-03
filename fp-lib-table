@@ -10,4 +10,6 @@
   (lib (name "G6A-274P")(type "KiCad")(uri "${KIPRJMOD}/Lib/G6A-274P-Master/G6A-274P.pretty")(options "")(descr ""))
   (lib (name "L_Toroid_Horizontal_D25.4mm_P22.90mm")(type "KiCad")(uri "${KIPRJMOD}/Lib/L_Toroid_Horizontal_D25.4mm_P22.90mm.pretty")(options "")(descr ""))
   (lib (name "Aries_logo-master")(type "KiCad")(uri "${KIPRJMOD}/Lib/Aries_logo-master")(options "")(descr ""))
+  (lib (name "Amidon_Binocular")(type "KiCad")(uri "${KIPRJMOD}/Lib/Directional_coupler-Master/Amidon_Binocular.pretty")(options "")(descr ""))
+  (lib (name "Golden_fleece")(type "KiCad")(uri "${KIPRJMOD}/Lib/Golden_fleece")(options "")(descr ""))
 )

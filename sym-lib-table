@@ -6,4 +6,6 @@
   (lib (name "24FC1025")(type "KiCad")(uri "${KIPRJMOD}/Lib/24FC1025.kicad_sym")(options "")(descr ""))
   (lib (name "BNC_Amphenol_031-5329-51RFX")(type "KiCad")(uri "${KIPRJMOD}/Lib/BNC_Amphenol_031-5329-51RFX-Master/BNC_Amphenol_031-5329-51RFX/BNC_Amphenol_031-5329-51RFX.kicad_sym")(options "")(descr ""))
   (lib (name "G6A-274P")(type "KiCad")(uri "${KIPRJMOD}/Lib/G6A-274P-Master/G6A-274P.kicad_sym")(options "")(descr ""))
+  (lib (name "directional_coupler")(type "KiCad")(uri "${KIPRJMOD}/Lib/directional_coupler.kicad_sym")(options "")(descr ""))
+  (lib (name "bn61-202")(type "KiCad")(uri "${KIPRJMOD}/Lib/Directional_coupler-Master/bn61-202.kicad_sym")(options "")(descr ""))
 )
