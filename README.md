@@ -31,7 +31,7 @@ Main differences are :
 ( Total relay count is 21 Tinabo TRA2/Omron G2R and 1 G6A-274P-ST-US DC12 now)
 
 
-# Work under progress
+# Work in progress
 do NOT use these files as long as this footnote hasn't been deleted
 
 
