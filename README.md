@@ -9,7 +9,7 @@ After his death, his remains (the golden fleece) was conquered by Jason and the 
 
 ![Aries, an OpenHPSDR ATU](https://github.com/F6ITU/K_Aries/blob/main/Aries_up.png)
  
- This repository is a fork of the Aries ATU project designed by Kjell Karsten LA2NI and Laurence Barker G8NJJ.
+ This repository is a fork of the Aries ATU project designed by Kjell Karlsen LA2NI and Laurence Barker G8NJJ.
  
  The original work can be downloaded from
 
