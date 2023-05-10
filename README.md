@@ -1,6 +1,8 @@
 # K_Aries
 
 Aries, an OpenHPSDR ATU (kicad version) 
+
+![Aries, an OpenHPSDR ATU](https://github.com/F6ITU/K_Aries/blob/main/Aries_up.png)
  
  This repository is a fork of the Aries ATU project designed by Kjell Karsten LA2NI and Laurence Barker G8NJJ.
  
@@ -23,8 +25,8 @@ Main differences are :
 (small mod for the "bypass" relay Total relay count is 22 TRA2 now
 
 
-
-
 # Work under progress
 do NOT use these files as long as this footnote hasn't been deleted
-schéma totalement saisi
+
+
+![Aries, an OpenHPSDR ATU](https://github.com/F6ITU/K_Aries/blob/main/Aries_dwn.png)
