@@ -31,10 +31,12 @@ Main differences are :
 ( Total relay count is 21 Tinabo TRA2/Omron G2R and 1 G6A-274P-ST-US DC12 now)
 
 
-# Work in progress
-do NOT use these files as long as this footnote hasn't been deleted
+# Work is RTM
+These files are considered as "ready to manufacture". In other words, Gerber files, iBom and BOM could be downloaded and/or
+sent to a fabhouse 
 
-
+No prototype of this version have been assembled and tested so far. Use it at your own risk, even if I did my best to kill every
+bug detected by the DRC
 
 
 ![Aries, an OpenHPSDR ATU](https://github.com/F6ITU/K_Aries/blob/main/Aries_dwn.png)
