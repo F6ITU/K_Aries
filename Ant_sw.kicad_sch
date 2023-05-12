@@ -1869,11 +1869,6 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 844cdda6-e1ed-4446-aa94-966f64dcdb87)
   )
-  (text "vérifier usage de \"ant_in\" \net de cette histoire d'internal coax\net de \"from tx/rx\"\n"
-    (at 32.385 112.395 0)
-    (effects (font (size 1.27 1.27)) (justify left bottom))
-    (uuid 9aa05961-107d-4d40-b72f-cab28ac2b8cb)
-  )
   (text "G6A-274P" (at 87.63 111.125 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid b2424a5e-7e1f-497a-8799-89998157b1cb)
