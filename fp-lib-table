@@ -12,4 +12,5 @@
   (lib (name "Aries_logo-master")(type "KiCad")(uri "${KIPRJMOD}/Lib/Aries_logo-master")(options "")(descr ""))
   (lib (name "Amidon_Binocular")(type "KiCad")(uri "${KIPRJMOD}/Lib/Directional_coupler-Master/Amidon_Binocular.pretty")(options "")(descr ""))
   (lib (name "Golden_fleece")(type "KiCad")(uri "${KIPRJMOD}/Lib/Golden_fleece")(options "")(descr ""))
+  (lib (name "TNC")(type "KiCad")(uri "${KIPRJMOD}/Lib/TNC.pretty")(options "")(descr ""))
 )
